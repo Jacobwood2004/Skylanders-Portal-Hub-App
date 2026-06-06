@@ -1,4 +1,3 @@
-[README.txt](https://github.com/user-attachments/files/28660657/README.txt)
 Skylanders Portal Manager
 =========================
 
